@@ -1,12 +1,3 @@
 ## всем пока
 
-<div align="center">
-
-<pre>
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
-</pre>
-
-</div>
+<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeLLhdSWX-KVryiTs2tfJ9uDS69fQGr5THVCowSRIKg&s=10)">
